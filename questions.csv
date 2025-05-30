@@ -1,0 +1,26 @@
+Question
+"What is the company's password policy, and how is multi-factor authentication (MFA) implemented across systems and applications?"
+"How frequently are security incidents reviewed, and what metrics are tracked for continuous improvement?"
+"What security awareness training program is in place for employees, and how frequently is it conducted?"
+"When was the last third-party security assessment conducted, and what were the key findings and remediation status?"
+"How are privileged accounts managed, monitored, and audited?"
+"How frequently does the board of directors receive updates on cybersecurity matters, and what metrics are regularly reported?"
+What is the target Recovery Time Objective (RTO) and Recovery Point Objective (RPO) for critical systems?
+How does the company measure the effectiveness of security training and address identified gaps?
+"How does the company maintain an inventory of critical assets and sensitive data, and what controls are in place to protect them?"
+"What security monitoring tools and technologies are currently deployed, and how is 24/7 coverage maintained?"
+"What controls and monitoring capabilities are implemented for cloud services, and how is cloud security posture regularly assessed?"
+"How does the company ensure compliance with relevant privacy regulations (e.g., GDPR, CCPA), and what processes exist for handling data subject requests?"
+"Describe the process for managing user access, including onboarding, periodic reviews, and offboarding procedures."
+"What is the company's backup strategy, including frequency, retention periods, and testing procedures?"
+"How often are business continuity and disaster recovery plans tested, and what were the results of the last test?"
+How does the company assess and monitor the security posture of vendors and third-party service providers?
+"What security frameworks (e.g., NIST, ISO 27001, SOC 2) has the company adopted, and what is the current state of compliance/certification?"
+"How frequently are application security assessments and penetration tests conducted, and what is the process for addressing identified vulnerabilities?"
+"What is the company's process for conducting regular risk assessments, and how are findings incorporated into the security roadmap?"
+What secure development practices are implemented in the software development lifecycle (SDLC)?
+"Does the company have a dedicated Chief Information Security Officer (CISO) or equivalent role? If yes, please describe their reporting structure and years of experience in information security."
+"Describe the incident response plan, including roles, responsibilities, and communication procedures during a security incident."
+What encryption standards and technologies are implemented for data at rest and in transit?
+"What contractual security requirements are included in vendor agreements, and how is compliance verified?"
+"What data classification scheme is in place, and how is sensitive data identified and protected throughout its lifecycle?"
